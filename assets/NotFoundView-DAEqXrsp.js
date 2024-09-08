@@ -1,0 +1,1 @@
+import{u as t,i as s,o as n,b as u,d as r}from"./index-CI7m5PnG.js";const a={class:"notFound"},i={__name:"NotFoundView",setup(d){const e=t();return s(()=>{setTimeout(()=>{e.push("/")},1e3)}),(c,o)=>(n(),u("div",a,o[0]||(o[0]=[r("h1",null,"404 Not Found",-1)])))}};export{i as default};
